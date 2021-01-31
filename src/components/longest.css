@@ -1,0 +1,38 @@
+label {
+  font: 1rem "Fira Sans", sans-serif;
+  margin: 0 1rem;
+}
+input {
+  margin: 0 1rem;
+}
+h5 {
+  margin: 0.1rem;
+}
+h6 {
+  background-color: #c5c2f8;
+  padding: 1rem 0.5rem;
+  margin: 1rem 0;
+}
+.longest {
+  background-color: #a9b3d9;
+  padding: 2rem;
+  margin: 1rem;
+}
+
+.review-enter {
+  opacity: 0.01;
+}
+
+.review-enter.review-enter-active {
+  opacity: 1;
+  transition: opacity 300ms ease-in;
+}
+
+.review-leave {
+  opacity: 0.01;
+}
+
+.review-leave.review-leave-active {
+  opacity: 0.01;
+  transition: opacity 300ms ease-in;
+}
