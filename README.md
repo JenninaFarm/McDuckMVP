@@ -2,7 +2,7 @@
 
 This project is made using React. It was an assingment from Vincit for applying for junior web and mobile developer position.
 
-This project implements an application that provides some statistics about stovk prices. The idea was to make minimum viable product (MVP).
+This project implements an application that provides some statistics about stock prices. The idea was to make minimum viable product (MVP).
 
 ## Main functionalities
 
